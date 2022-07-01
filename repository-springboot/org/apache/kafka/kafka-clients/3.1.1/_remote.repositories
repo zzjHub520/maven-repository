@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 01 08:14:13 CST 2022
+kafka-clients-3.1.1-test.jar>alimaven=
+kafka-clients-3.1.1.jar>alimaven=
+kafka-clients-3.1.1.pom>alimaven=
